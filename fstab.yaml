@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p175160-e1860883.adobeaemcloud.com/bin/franklin.delivery/altria-poc/freshcope/main"
+    url: "https://author-p175160-e1860883.adobeaemcloud.com/bin/franklin.delivery/altria-poc/freshcope/test"
     type: "markup"
     suffix: ".html"
     host: "qa1-cs.freshcope.com"
