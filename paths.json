@@ -1,10 +1,12 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/alcs-poc/index:/home",
+    "/content/alcs-poc/index:/",
+    "/content/alcs-poc/:/",
+    "/content/alcs-poc:/.helix/config.json",
+    "/content/alcs-poc/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/alcs-poc/"
   ]
 }
